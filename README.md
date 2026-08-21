@@ -1,4 +1,4 @@
-# CIS-3400-Advanced-Programming - Berne
+# CIS 3400 Advanced Programming - Berne
  
 Mateo Berne
 Business Administration  
